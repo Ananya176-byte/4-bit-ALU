@@ -10,7 +10,7 @@ FEATURES:
 - Logical AND (A & B)
 - Logical OR (A | B)
 - Logical XOR (A ⊕ B)
-- 
+  
 ✅ Mode control for arithmetic operations (Addition/Subtraction)
 
 ✅ Uses 4-bit inputs (Ai,Bi) with individual bit-wise processing
